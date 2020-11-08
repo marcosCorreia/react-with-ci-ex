@@ -19,4 +19,4 @@ jobs:
       - name: Testing
         run: CI=true yarn test
       - name: Build
-        run: yarn run build
+        run: yarn build
